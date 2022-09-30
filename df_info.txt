@@ -1,0 +1,17 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 90836 entries, 0 to 90835
+Data columns (total 10 columns):
+ #   Column              Non-Null Count  Dtype  
+---  ------              --------------  -----  
+ 0   id                  90836 non-null  int64  
+ 1   name                90836 non-null  object 
+ 2   est_diameter_min    90836 non-null  float64
+ 3   est_diameter_max    90836 non-null  float64
+ 4   relative_velocity   90836 non-null  float64
+ 5   miss_distance       90836 non-null  float64
+ 6   orbiting_body       90836 non-null  object 
+ 7   sentry_object       90836 non-null  bool   
+ 8   absolute_magnitude  90836 non-null  float64
+ 9   hazardous           90836 non-null  bool   
+dtypes: bool(2), float64(5), int64(1), object(2)
+memory usage: 5.0+ MB
