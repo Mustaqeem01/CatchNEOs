@@ -1,0 +1,11 @@
+Column Name, Description
+id, Unique Identifier for each Asteroid
+name, Name given by NASA
+est_diameter_min, Minimum Estimated Diameter in Kilometres
+est_diameter_max, Maximum Estimated Diameter in Kilometres
+relative_velocity, Velocity Relative to Earth in Kilometers per Hour
+miss_distance, Distance in Kilometres missed
+orbiting_body, Planet that the asteroid orbits
+sentry_object, Included in sentry which is an automated collision monitoring system
+absolute_magnitude, Describes intrinsic luminosity
+hazardous, Shows whether asteroid is harmful or not
